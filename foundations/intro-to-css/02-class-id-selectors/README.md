@@ -20,6 +20,6 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 
 ### Self Check
-- Do the odd numbered `p` elements share a class?
-- Do the even numbered `div` elements have unique IDs?
-- Does the Number 3 element have multiple classes?
+- Do the odd numbered `p` elements share a class? - Yes 
+- Do the even numbered `div` elements have unique IDs? - Yes
+- Does the Number 3 element have multiple classes?- No, i solved my solution by using an inline css inside of the p element, it seems to have given the same outcome, i forgot that an element can have multiple classes. I also forgot that an element can have both an ID and Class attribute.
